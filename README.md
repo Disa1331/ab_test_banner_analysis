@@ -38,4 +38,5 @@
 - Подготовлен пошаговый план проведения A/B-теста
 
 ## Материалы
-
+- [Отчет](https://github.com/Disa1331/ab_test_banner_analysis/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B1%D0%B8%D0%BB%D0%B0%D0%B8%CC%86%D0%BD%20(%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%D0%BC%D0%B8).pdf)
+- [Первоначальные баннеры для анализа](https://github.com/Disa1331/ab_test_banner_analysis/blob/main/visuals/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D1%8B.png)
